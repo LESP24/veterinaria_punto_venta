@@ -1,0 +1,754 @@
+Codigo	Descripcion	Precio Costo	Precio Venta	Precio Mayoreo	Inventario	Inv. Minimo	Departamento
+ J2E14295	4 Plex Recovery Complemento Vitaminico 30gr	$300.00	$450.00	$345.00	1	1	- Sin Departamento -
+2.30E+03	4.5-10KG 1 MES	$293.00	$380.00	$0.00	6	0	DIPROFARVET
+7.50109E+12	ALIN OFTALMICO	$119.00	$180.00	$150.00	0	0	- Sin Departamento -
+7.50634E+12	ARTRO TABS 30 TAB	$334.00	$600.00	$450.00	2	0	dist.gomez tagle
+7.79804E+12	Acedan 10ml Tranquilizante	$235.00	$350.00	$270.00	1	1	- Sin Departamento -
+7.75665E+12	Agrovet 100ml Inyectable	$150.00	$250.00	$173.00	1	1	MERAGRO
+7.50636E+12	Alben Max 10 Kg  Tableta 	$20.00	$50.00	$30.00	241	30	ESPINOSA
+7.50636E+12	Alben Max 30 Kg	$34.00	$150.00	$40.00	73	30	- Sin Departamento -
+7.50636E+12	Alben Puppy Antiparasitario	$20.00	$50.00	$25.00	89	5	telvet
+7.50109E+12	Alin 100 ml	$331.00	$450.00	$390.00	4	1	segavet
+7.50109E+12	Alin Depot 50ml Inyectable	$680.00	$750.00	$714.00	3	2	segavet
+ 28811N	Aluspray Cicatrizante 	$264.00	$380.00	$320.00	9	3	DIPROFARVET
+7.34448E+11	Alveum 100ml	$140.00	$200.00	$161.00	2	1	- Sin Departamento -
+7.50223E+12	Amoxi Pets L 	$232.00	$450.00	$400.00	1	0	SANTA MARIA
+7.50223E+12	Amoxi Pets M	$129.00	$250.00	$0.00	1	0	SANTA MARIA
+7.50657E+12	Amoxi-Peek 250 Mg Adulto	$204.00	$300.00	$250.00	1	1	- Sin Departamento -
+7.50657E+12	Amoxi-peek 62.5	$127.50	$200.00	$140.00	0	1	- Sin Departamento -
+7.50634E+12	AmoxiPet 50 Tabs	$168.00	$250.00	$0.00	2	0	DYSVET
+7.50634E+12	"Amoxin 100, 30 Ml Pets Pharma"	$140.00	$250.00	$200.00	2	2	gomez tagle
+7.50634E+12	Amoxin 250 30ml Pets Pharma	$190.00	$300.00	$250.00	3	2	gomez tagle
+7.50634E+12	Amoxipet Plus 200 Mg 	$329.00	$500.00	$330.00	1	0	DYSVET
+7.50634E+12	Amoxipet Plus 500	$240.00	$500.00	$0.00	0	0	DYSVET
+ SLTS	Animox Sueltas 	$13.00	$20.00	$0.00	30	0	- Sin Departamento -
+7.50634E+12	Animox Tabs 30 	$216.00	$390.00	$320.00	1	0	LAS POTRANCAS
+7.50634E+12	Apetikan Solucion Oral 30ml 	$150.50	$350.00	$200.00	6	0	DYSVET
+7.79804E+12	Apetil 10ml	$170.00	$250.00	$200.00	0	2	segavet
+5.41474E+12	Apoquel 16mg 	$43.00	$950.00	$0.00	0	2	segavet
+5.41474E+12	Apoquel 3.6mg	$29.00	$600.00	$35.00	0	0	segavet
+5.41474E+12	Apoquel 5.4mg	$496.00	$860.00	$600.00	1	1	segavet
+7.50223E+12	Appetit Pets 30ml	$0.00	$250.00	$200.00	2	0	SANTA MARIA
+7.50226E+12	Army Jabon Antipulgas	$27.00	$70.00	$35.00	15	1	- Sin Departamento -
+7.50226E+12	Army Shampoo	$65.00	$150.00	$75.00	0	1	HUIMANGUILLO
+7.50636E+12	Artrodol Suspension 	$258.00	$380.00	$330.00	3	2	ESPINOSA
+7.93888E+11	Artroflex 60 Tab	$516.00	$850.00	$595.00	0	1	DEL VALLE
+5.42004E+12	Asuntol Jabón	$50.00	$75.00	$60.00	1	3	HUIMANGUILLO
+5.42004E+12	Atopica 100mg 30 Tab	$992.25	"$1,550.00"	"$1,200.00"	0	1	CATSAVET
+5.42004E+12	Atopica 50mg 30 Tab	$815.85	"$1,200.00"	"$1,000.00"	1	1	CATSAVET
+7517	Atrayente Entrenador 	$110.00	$200.00	$0.00	2	0	DIPROFARVET
+7.79804E+12	Atriben Susp. Inyectable 20ml	$335.00	$50.00	$40.00	19	1	segavet
+ J3B14753	Auripet 10ml Antimicrobiano-Antimicotico	$84.00	$180.00	$150.00	1	3	LAS POTRANCAS
+7.50223E+12	Azitromi Pets Susp.	$0.00	$250.00	$200.00	1	0	- Sin Departamento -
+ AZO90	Azodil 90 Caps 	"$1,292.00"	"$1,500.00"	"$1,400.00"	0	0	HUIMANGUILLO
+ BAN-4	BANDANA NUMERO 4	$50.00	$120.00	$0.00	4	1	accesorios
+ BIO	BIODRYL 20 ML	$20.00	$60.00	$0.00	3	0	aranda 
+2.30E+04	BRAVECTO 10-20 KG 1 MES	$305.00	$400.00	$0.00	3	0	DIPROFARVET
+8.71318E+12	BRAVECTO 10-20KG 3MESES	$400.00	$550.00	$340.00	2	0	DIPROFARVET
+ 24E	BRAVECTO 2-4.5 KG 1 MES	$250.00	$280.00	$0.00	2	0	DIPROFARVET
+8.71318E+12	BRAVECTO 2-4.5 KG 3 MESES	$363.00	$480.00	$430.00	8	0	DIPROFARVET
+8.71318E+12	BRAVECTO 20-40 3 MESES	$424.00	$600.00	$500.00	7	0	DIPROFARVET
+2.30E+05	BRAVECTO 20-40KG 1 MES 	$325.00	$450.00	$360.00	2	0	DIPROFARVET
+8.71318E+12	BRAVECTO 4.5-10 KG 3 MESES	$382.00	$500.00	$350.00	4	0	DIPROFARVET
+7.503E+12	Bactoderm Shampoo 350ml 	$297.00	$350.00	$300.00	1	0	dist.gomez tagle
+7.50105E+12	Bamitol 200gr	$180.00	$250.00	$210.00	0	1	HUIMANGUILLO
+7.50105E+12	Bamitol 90 G	$110.00	$150.00	$130.00	1	1	HUIMANGUILLO
+ BAN-1	Bandana 1 	$50.00	$80.00	$0.00	2	1	accesorios
+ BAN-2	Bandana 2	$50.00	$90.00	$0.00	4	1	accesorios
+ BAN-3	Bandana 3	$50.00	$100.00	$0.00	3	1	accesorios
+ BAN-5	Bandana 5	$50.00	$150.00	$0.00	4	0	accesorios
+ BAN-6	Bandana 6	$50.00	$180.00	$0.00	3	1	accesorios
+ BAND-7	Bandana 7	$50.00	$200.00	$0.00	1	1	accesorios
+7.50641E+12	Bebida Universal 100 Ml	$86.00	$180.00	$140.00	2	1	aranda 
+7.50634E+12	Benzoderm Infeccion  De Piel 	$115.00	$150.00	$135.00	1	3	telvet
+ Q-0454-096	Biflox 12 Tab Antibiotico 	$78.00	$150.00	$90.00	0	3	- Sin Departamento -
+7.79804E+12	Bio Clin (gel Antiplaca)	$140.00	$250.00	$163.00	1	1	segavet
+7.50635E+12	Bismuxil-P 	$78.00	$150.00	$90.00	1	3	ESPINOSA
+7.50105E+12	Bolfo Super Spray 	$135.00	$200.00	$156.00	1	0	MERAGRO
+12321	Bolfo Talco 100gr 	$85.00	$150.00	$98.00	0	0	HUIMANGUILLO
+ 23E2003	Bravecto 4.5-10 Kg 1mes	$270.00	$300.00	$0.00	2	0	DIPROFARVET
+7.50634E+12	Bravo Spray Insecticida 100ml	$130.00	$189.00	$153.00	1	2	LAS POTRANCAS
+7.50635E+12	Bronaverio 20 Tab	$252.00	$360.00	$290.00	2	1	ESPINOSA
+ BRONAVERIO	Bronaverio Unidad Tab	$11.00	$20.00	$15.00	0	5	ESPINOSA
+7.50634E+12	Broncotrim	$95.00	$150.00	$110.00	2	3	segavet
+ 123007-F	Bronyl 10 Ml	$55.00	$100.00	$65.00	2	1	MERAGRO
+7.50634E+12	CALCIPET TABS 30 TAB	$145.00	$300.00	$210.00	1	0	dist.gomez tagle
+38100138583	CANINE/EN/2.72kg	$526.64	$750.00	$620.00	1	1	CATSAVET
+38100138460	CANINE/NF/2.72kg	$488.09	$700.00	$620.00	0	1	CATSAVET
+ CARS	CARDO BEE 15 	$282.00	$400.00	$0.00	1	0	LAS POTRANCAS
+7.50223E+12	CARPRO PETS M 	$365.00	$500.00	$0.00	0	0	SANTA MARIA
+7.50302E+12	CATOVET B12	$347.00	$500.00	$420.00	1	0	- Sin Departamento -
+123456	CEFA-PEEK	$129.50	$200.00	$160.00	4	1	aranda 
+7.50304E+12	CEFALETAS 200 - 20 Tab	$114.00	$300.00	$220.00	29	3	SANTA MARIA
+7.50304E+12	CEFALETAS 400 - 20 Tab	$143.50	$350.00	$250.00	17	3	segavet
+75039929	CEFAMAX /20 TAB	$105.35	$260.00	$200.00	1	1	HUIMANGUILLO
+ CHUKUS 2 	CHUKUS LOCION CHICLE 	$55.00	$100.00	$0.00	1	0	DIPROFARVET
+8.5003E+11	CHURU ATUN 4PZ	$46.33	$100.00	$70.00	0	0	alimentos colibri
+8.55958E+11	CHURU SALMON 4PZ	$46.33	$100.00	$70.00	4	0	alimentos colibri
+7.50636E+12	CLINDAGEN (USO VETERINARIO)	"$1,389.75"	"$2,000.00"	"$1,800.00"	1	0	- Sin Departamento -
+ Q-10688-012	CLORHEX-PEEK	$84.00	$120.00	$0.00	1	0	aranda 
+ CUBOJ	CUBRE OBJETOS	$76.00	$100.00	$90.00	2	0	SAN LUIS
+ COR-DIB	Cadena + Collar Dibujos Ch	$0.00	$65.00	$0.00	5	0	accesorios
+ CAD-P1	Cadena Paseo (1.20mm) 	$0.00	$50.00	$0.00	0	0	accesorios
+ CAD-P2	Cadena Paseo (4mm)	$0.00	$100.00	$0.00	0	0	accesorios
+ CAD-P3	Cadena Paseo (5mm)	$0.00	$200.00	$0.00	0	0	accesorios
+ CLAV40	Calmivet Comprimidos Cja C/40	$15.00	$50.00	$20.00	78	5	HUIMANGUILLO
+ CAM-PEL	Cama Afelpada Rosa M	$205.00	$350.00	$0.00	0	1	accesorios
+ CAMOSO	Cama De Oso	$133.00	$450.00	$0.00	1	0	accesorios
+ CAMTIB	Cama De Tiburon	$296.00	$550.00	$0.00	0	0	accesorios
+ CAM-DI	Cama Dinosaurio Mediana	$268.00	$550.00	$0.00	0	1	accesorios
+ CAM-EST	Cama Estrella 	$150.00	$250.00	$0.00	1	1	accesorios
+ CAM-GA	Cama Gato Gris Mediana	$168.00	$450.00	$0.00	1	1	accesorios
+ CAM-HUE	Cama Huellitas Cafe 	$200.00	$350.00	$0.00	0	1	accesorios
+ CAM-ROS	Cama Poliester Rosa Chica	$140.00	$200.00	$0.00	0	1	accesorios
+ CAM-SPI	Cama Spiderman	$166.00	$350.00	$0.00	0	1	accesorios
+7.75665E+12	Cani Tabs (Calming+Relax)	$264.00	$400.00	$279.00	0	3	telvet
+7.75665E+12	Cani Tabs (Skin+Coal)	$185.00	$300.00	$215.00	0	3	telvet
+7.75665E+12	Cani Tabs Adulto	$325.00	$400.00	$378.00	1	0	telvet
+7.75665E+12	Cani Tabs Cachorro	$315.00	$380.00	$366.00	0	0	telvet
+7.79818E+12	Canis Endo Spot 41 A 60 Kg	$0.00	$450.00	$0.00	1	1	- Sin Departamento -
+7.79818E+12	Canis Full Spot 41-60kg 	$330.00	$350.00	$380.00	0	2	DYSVET
+7.50228E+12	Canoplex (mto De La Piel Y Pelo)	$300.00	$450.00	$370.00	2	2	gomez tagle
+7.50228E+12	Canoplex 30 Tabletas	$204.00	$340.00	$240.00	0	1	Diveca
+ J4B15346	Captain Tab	$125.00	$15.00	$7.00	0	15	- Sin Departamento -
+230101	Carbocan 100ml	$155.00	$300.00	$180.00	2	1	segavet
+20240321	Cateter Urinary Con Estilete 	$0.00	$300.00	$250.00	5	0	DEL VALLE
+7.50223E+12	Cefa Pets L	$0.00	$500.00	$450.00	0	0	- Sin Departamento -
+ C27251	Cefa-Peek 60ml	$140.00	$280.00	$230.00	5	2	DIAGIPE
+ F22595	Cefaline 150	$250.00	$450.00	$290.00	0	1	- Sin Departamento -
+ F22303	Cefaline 300	$345.00	$500.00	$400.00	0	1	- Sin Departamento -
+7.50636E+12	Cefalmed-10 30 Comprimidos 	$295.00	$500.00	$0.00	3	0	ESPINOSA
+7.50636E+12	Cefamed-30 Tabletas	$592.00	$750.00	$0.00	3	0	ESPINOSA
+7.50304E+12	Cefaxal Rojo 60ml	$130.00	$250.00	$145.00	6	3	TIPACAMU
+7.50304E+12	Cefaxal Simple Suspencion 60ml	$118.60	$250.00	$200.00	15	5	TIPACAMU
+707634	Cerenia 20ml 	"$1,878.00"	"$2,500.00"	"$2,185.00"	1	1	segavet
+ 42502N	Chemi Collar Antipulgas	$154.00	$250.00	$0.00	0	0	DIPROFARVET
+2230	Chemi Derm Jabon 	$129.00	$140.00	$0.00	4	0	DIPROFARVET
+ CHUKUSFASHIONG	Chukus Fashion Bebe 1lt	$348.00	$500.00	$401.00	1	0	DIPROFARVET
+ CHUKUSFASHION2	Chukus Fashion Chicle	$64.00	$120.00	$74.00	2	1	DIPROFARVET
+ CHUKUSFASHION1	Chukus Fashion Coco	$64.00	$120.00	$74.00	3	1	DIPROFARVET
+ CHUKUSGROOMERHIPAL	Chukus Groomer Hipoalergenico	$778.00	"$1,000.00"	$895.00	1	0	DIPROFARVET
+ CHUKUSSAHMPOO	Chukus Shapoo Para Perro	$348.00	$500.00	$401.00	1	0	DIPROFARVET
+8.85939E+12	Churu Atun De Dieta 	$10.00	$30.00	$20.00	40	0	DYSVET
+8.10101E+11	Churu Cangrejo 	$0.00	$100.00	$0.00	6	1	colibri
+8.5003E+11	"Churu Premium( Atun, Salmom, Cangrejo) "	$0.00	$25.00	$20.00	40	0	DYSVET
+ CHG00027	Cinturon Piel EXG	$0.00	$200.00	$0.00	2	0	accesorios
+7.50635E+12	Cis-A-Prid 20 Ml 	$182.00	$260.00	$220.00	2	3	ESPINOSA
+7.50223E+12	Cisa Pets L NVR 10 Tab	$0.00	$150.00	$110.00	2	1	SANTA MARIA
+7.50223E+12	Cisa Pets Suspension 40 Ml	$164.50	$250.00	$200.00	0	1	SANTA MARIA
+7.50223E+12	Cisa Pets XL	$141.00	$300.00	$163.00	0	1	SANTA MARIA
+7.50636E+12	Clavam 14 Tab 62.5mg 	$65.00	$120.00	$76.00	2	2	SANTA MARIA
+7.50304E+12	Clavam 14 Tabletas 250mg	$118.00	$250.00	$135.00	1	2	SANTA MARIA
+ CT381021	Clavam 250 Mg	$140.00	$250.00	$161.00	1	1	DYSVET
+7.34448E+11	Clavoxivet Suspencion 60ml 	$201.00	$300.00	$0.00	3	1	aranda 
+7.50635E+12	Clemastine 	$180.00	$250.00	$210.00	1	2	ESPINOSA
+7.50223E+12	Clinda Pets M 50mg 30tab	$198.00	$280.00	$228.00	1	1	- Sin Departamento -
+7.50635E+12	Clindafur-S 30 Ml 	$215.00	$350.00	$250.00	0	1	ESPINOSA
+7.50636E+12	Clindamicin-10	$333.00	$600.00	$0.00	2	0	ESPINOSA
+7.50636E+12	Clindamicion-30 30 Tabletas	$573.75	$750.00	$0.00	3	0	ESPINOSA
+75039936	Clindamin Tabs 20 	$0.00	$250.00	$0.00	3	0	biozoo
+7.50649E+11	Clindaserin 	$265.00	$350.00	$310.00	3	1	ESPINOSA
+ CRT4722	Clindaxal 220 G 30 Tabletas	$230.00	$400.00	$270.00	3	1	DYSVET
+7.79804E+12	Clorexidina Gotas Oticas 	$218.00	$250.00	$251.00	1	2	segavet
+7.50634E+12	Clorexivet Plus Jabon	$145.00	$185.00	$165.00	1	2	gomez tagle
+7.50634E+12	"Clorexivet Plus, Shampoo, Clorexidina Y Miconazol"	$280.00	$385.00	$310.00	2	2	gomez tagle
+7.50636E+12	Clorhexin Gel Antiplaca	$260.00	$350.00	$299.00	2	1	ESPINOSA
+7.50635E+12	Closbutil	$55.00	$100.00	$65.00	17	8	ESPINOSA
+7.50636E+12	Coccimed-5 	$16.00	$50.00	$21.00	161	30	ESPINOSA
+ COL-AVE	Colchon Avenger	$70.00	$150.00	$0.00	1	1	accesorios
+ COL-BAT	Colchon Batman	$100.00	$300.00	$0.00	1	1	accesorios
+ COL-ELE	Colchon Elefante 	$150.00	$300.00	$0.00	1	1	accesorios
+ COL-TIG	Colchon Tigger 	$70.00	$150.00	$0.00	0	1	accesorios
+ CHG00114	Collar Agarradera	$0.00	$100.00	$0.00	1	0	accesorios
+ CA-CH	Collar Castigo Ch 2mm	$0.00	$60.00	$0.00	3	0	accesorios
+ CA-G 	Collar Castigo Grande 4mm	$0.00	$180.00	$0.00	6	0	accesorios
+ CA-M	Collar Castigo Mediano 3mm	$0.00	$100.00	$0.00	0	0	accesorios
+ CO-DIAS 	Collar De Diamante Chico Rojo	$35.00	$65.00	$0.00	0	0	accesorios
+ CO-DIAM	Collar De Diamante Rojo/Plateado	$35.00	$70.00	$0.00	1	0	accesorios
+ CO-ESTRE	Collar De Estrellas Azul	$40.00	$80.00	$0.00	1	0	accesorios
+ CO-DOS	Collar Dorado S Chico	$51.00	$110.00	$0.00	0	0	accesorios
+ COLL-EST	Collar Estampado Chico	$0.00	$50.00	$0.00	1	0	accesorios
+ ISABELINO1	Collar Isabelino N.1	$0.00	$130.00	$0.00	2	1	Gav
+ ISABELINO2	Collar Isabelino N.2	$72.50	$150.00	$100.00	1	2	Gav
+ ISABELINO3	Collar Isabelino N.3	$90.00	$180.00	$140.00	3	2	Gav
+ ISABELINO4	Collar Isabelino N.4	$0.00	$230.00	$130.00	2	1	Gav
+ ISABELINO5	Collar Isabelino N.5	$0.00	$250.00	$0.00	2	2	Gav
+ ISABELINO6	Collar Isabelino N.6	$0.00	$300.00	$240.00	2	1	Gav
+ ISABELINO7	Collar Isabelino N.7	$0.00	$400.00	$0.00	1	1	Gav
+ CO-DIAL	Collar L Champange Diamantes 	$35.00	$80.00	$0.00	0	1	accesorios
+ CO-3	Collar Liston	$0.00	$20.00	$0.00	2	0	accesorios
+ PIEL-C3	Collar Piel Ch Roja	$0.00	$100.00	$0.00	0	0	accesorios
+ PIEL-C2	Collar Piel Costura Blanca	$0.00	$150.00	$0.00	2	0	accesorios
+ CO-2	Collar Piel Sintetica C/Campana	$0.00	$50.00	$0.00	4	0	accesorios
+ SINT-P1	Collar Piel Sintetica Costura Blanca	$0.00	$130.00	$0.00	1	0	accesorios
+ CO-FLOR	Collar Terciopelo De Colores Con Flor	$43.00	$80.00	$0.00	1	0	accesorios
+ CO-1	Collar Verde/Negro Ch	$0.00	$30.00	$0.00	17	1	accesorios
+ CO-CORCH	Collares Chicos Cordel 	$25.00	$70.00	$0.00	1	1	accesorios
+ CO-GVI	Collares Grandes Con Vista	$50.00	$150.00	$0.00	2	1	accesorios
+ CO-CORG	Collares Grandes Cordel	$35.00	$130.00	$0.00	1	1	accesorios
+ CO-MVI	Collares Medianos Con Vista 	$40.00	$120.00	$0.00	0	1	accesorios
+ CO-CORM	Collares Medianos Cordel	$30.00	$100.00	$0.00	2	1	accesorios
+ CO-CORLIS	Collares Mini C/Carton 	$15.00	$50.00	$0.00	5	1	accesorios
+ CO-CORMIN	Collares Mini Cordel	$10.00	$50.00	$0.00	8	1	accesorios
+ PIEL-C1	Collares Piel Costura Negra 	$0.00	$170.00	$0.00	4	0	accesorios
+7.34448E+11	Complejo B 	$162.00	$250.00	$0.00	1	0	aranda 
+7.50156E+12	Complete Mobility Tabs 	$235.00	$400.00	$275.00	1	0	accesorios
+ PECH-1	Correa + Pechera	$0.00	$75.00	$0.00	0	0	accesorios
+ CO-COL	Correa Colores 	$0.00	$130.00	$0.00	1	0	accesorios
+ CR-TR	Correa Cordel Trenzado	$60.00	$180.00	$0.00	2	1	accesorios
+ CO-EST	Correa Estampado	$0.00	$120.00	$0.00	2	0	accesorios
+ CR-COR	Correas Cordel	$50.00	$120.00	$0.00	0	1	accesorios
+7.50223E+12	Coxi Pets 5%	$141.00	$220.00	$163.00	0	1	SANTA MARIA
+5.42004E+12	Credelio Gato/ 48mg X 3 (2 A 8 Kg)	$489.12	$250.00	$180.00	3	1	CATSAVET
+5.42004E+12	Credelio Gato/12mg X 3 (0.5 A 2 Kg)	$451.07	$200.00	$160.00	1	1	CATSAVET
+87219131206	Cytopoint 20	$500.00	"$1,000.00"	$820.00	3	1	zegues
+87219131268	Cytopoint 40	"$2,710.00"	$850.00	"$2,100.00"	2	1	segavet
+ DIARRI 60	DIARRI PET 60 ML 	$74.00	$150.00	$0.00	1	0	aranda 
+ DIARRI	DIARRI-PEEK 100ML	$95.00	$200.00	$0.00	2	0	aranda 
+7.50635E+12	Dental Boost Tabletas	$24.00	$45.00	$40.00	30	30	ESPINOSA
+7.50634E+12	Dermacalm Jabon Tx Dermopatias	$96.00	$180.00	$115.00	3	2	segavet
+7.50223E+12	Dermacream	$75.60	$150.00	$0.00	0	0	SANTA MARIA
+7.50634E+12	"Dermatril Spa, Extractos Naturales 350 Ml"	$180.00	$250.00	$210.00	0	2	gomez tagle
+7.50634E+12	Dermatryl Jabon (Infeccion De Piel Y Saborrea Seca)	$82.00	$150.00	$95.00	0	2	segavet
+7.50634E+12	Dermatryl Jabon medicado (saborrea Oleosa)	$122.00	$150.00	$141.00	2	3	telvet
+7.50634E+12	Dermatryl Shampoo 350ml	$205.00	$280.00	$240.00	3	2	DYSVET
+7.50634E+12	Dermatryl Spa Jabon	$103.00	$130.00	$120.00	0	3	telvet
+7.503E+12	Dermoplex Crema 60g	$173.00	$250.00	$200.00	1	2	gomez tagle
+7.50635E+12	Deter 20 Coprofagia	$405.00	$550.00	$466.00	2	1	dist.gomez tagle
+7.50635E+12	Deter 5 Coprofagia	$221.00	$300.00	$230.00	1	1	dist.gomez tagle
+7.50223E+12	Dexa-Jet 100ml	$157.00	$280.00	$181.00	2	1	SANTA MARIA
+ 43386H	Dexan-2 50 Ml 	$147.00	$200.00	$170.00	1	1	MERAGRO
+7.34448E+11	Dextrimazol 40g	$132.00	$250.00	$200.00	1	1	DIAGIPE
+ X-4	Diamel 30 Ml 	$353.00	$500.00	$406.00	2	1	- Sin Departamento -
+ DZ1722	Diazin 200 6 Tabletas	$85.00	$150.00	$100.00	2	1	DYSVET
+7.89802E+11	Diclofenaco 50ml	$115.00	$250.00	$135.00	1	1	Urofino
+3.60587E+12	Dogolact 	$241.00	$500.00	$278.00	0	1	SANTA MARIA
+ CO-DOM	Dollar Dorado Mediano	$65.00	$130.00	$0.00	0	0	accesorios
+7.50635E+12	Dolo-Febre 15 Tabletas	$286.00	$380.00	$329.00	2	1	ESPINOSA
+7.50223E+12	Dolocar L	$198.00	$300.00	$240.00	1	1	SANTA MARIA
+7.50223E+12	Dolocar M	$106.00	$200.00	$125.00	2	1	SANTA MARIA
+7.50223E+12	Dolocar S	$84.00	$150.00	$104.00	1	1	SANTA MARIA
+7.50223E+12	Dolocar XL	$366.00	$500.00	$430.00	0	1	SANTA MARIA
+ J2H14407	Domogen 30ml Analgesico- Desinflamatorio Topico	$104.00	$150.00	$120.00	2	3	DIPROFARVET
+5.50302E+12	Dorzalovet Compuesto	$400.00	$550.00	$460.00	0	1	- Sin Departamento -
+7.50223E+12	Doxi Pets L	$283.00	$450.00	$0.00	0	0	SANTA MARIA
+7.50223E+12	Doxi Pets M	$164.00	$350.00	$250.00	1	0	SANTA MARIA
+7.50223E+12	Doxi Pets S	$127.00	$200.00	$170.00	2	1	SANTA MARIA
+7.50636E+12	Doximed-10	$20.00	$500.00	$25.00	0	1	ESPINOSA
+7506362	Doximed-30kg	$25.00	$750.00	$30.00	0	2	ESPINOSA
+ 9408PROM	Doxmas 100gr 10 Tab	$200.00	$350.00	$250.00	4	0	LAS POTRANCAS
+9409	Doxmas 200gr 10 Tab 	$206.00	$420.00	$300.00	1	0	LAS POTRANCAS
+4.00722E+12	Drontal Cat Ellipsoid/4kg 3 X 8 Tab	$774.03	$950.00	$874.00	1	1	CATSAVET
+7.50305E+12	ECTOSOL ANTIPULGAS SHAMPOO	$60.00	$120.00	$0.00	2	0	aranda 
+7.50305E+12	ECTOSOL JABON DE BARRA 	$40.00	$80.00	$0.00	5	0	aranda 
+7.50201E+12	EFFIPRO DUO 1-6 KG	$651.00	$220.00	$250.00	1	1	segavet
+7.50201E+12	EFFIPRO DUO 6-12	$693.00	$250.00	$270.00	9	1	segavet
+7.50201E+12	ENDOGARD 10KG VIRBAC	$36.42	$75.00	$50.00	138	24	SURVET
+7.50201E+12	ENDOGARD 2.5 KG VIRBAC	$0.00	$50.00	$30.00	141	24	SURVET
+7.50201E+12	ENDOGARD 30	$80.63	$200.00	$120.00	26	0	SURVET
+ ENER 02	ENER 4 PLEX ADULTO 	$173.00	$380.00	$250.00	1	1	LAS POTRANCAS
+ ENER 01	ENER 4 PLEX PUPPY 	$175.00	$350.00	$190.00	0	1	.
+7.50634E+12	Efa-Derm 125ml Suplemento 	$246.40	$350.00	$260.40	0	2	DYSVET
+7.50634E+12	Efa-Derm 235ml Suplemento	$406.00	$550.00	$430.00	0	1	DYSVET
+7.50201E+12	Effipro 10-20	$782.00	$300.00	$0.00	8	0	segavet
+7.50201E+12	Effipro 2-10kg 	$750.00	$280.00	$0.00	6	0	segavet
+7.50201E+12	Effipro 20-40 Kg 	$819.00	$350.00	$0.00	8	0	segavet
+7.50201E+12	Effipro 40-60 Kg 	$829.00	$400.00	$0.00	8	0	segavet
+7.5021E+12	Electrodex 525ml	$25.00	$80.00	$50.00	8	3	HUIMANGUILLO
+7.50634E+12	Emetin Inyectable 50ml 	$192.00	$350.00	$250.00	2	1	LAS POTRANCAS
+ EM151023	Emprazol 10- 30 Tabletas 	$88.00	$190.00	$100.00	3	3	DYSVET
+7.50304E+12	Emprazol 30-30 Tab	$98.70	$250.00	$140.00	1	0	DYSVET
+7.89619E+12	Endal Plus 	$127.00	$50.00	$150.00	6	3	DIPROFARVET
+7.50641E+12	Endovet Antiparasitario Inyectable	$68.00	$100.00	$80.00	0	1	- Sin Departamento -
+7.50223E+12	Energy Pets 150 G 	$201.00	$350.00	$290.00	0	1	SANTA MARIA
+7.50223E+12	Energy Pets 60 G	$161.00	$290.00	$220.00	0	0	SANTA MARIA
+7.50226E+12	Enro 60ml	$83.00	$150.00	$100.00	2	1	HUIMANGUILLO
+7.79804E+12	Enzimax 	$303.00	$400.00	$0.00	3	1	segavet
+7.50636E+12	Epilepxis-10 30 Tab	$314.00	$600.00	$500.00	5	1	ESPINOSA
+7.50636E+12	Epilepxis-30 30 Tab	$21.00	$750.00	$600.00	2	1	ESPINOSA
+7.50636E+12	Epilepxis-5 30 Tabletas	$226.00	$500.00	$270.00	0	2	ESPINOSA
+7.50201E+12	Epiotic 100ml Limpiador Oidos	$30.00	$150.00	$35.00	1	1	accesorios
+7.79804E+12	Epitelizante Ocular	$215.83	$390.00	$230.00	0	1	segavet
+5.42004E+12	Equilibrium Senior 60 Tab	$569.00	$800.00	$700.00	2	1	CATSAVET
+7.50109E+12	Eroxtal 0.5	$120.00	$180.00	$0.00	6	0	LAS POTRANCAS
+3.7601E+12	Essential 6 Spot-On Pipetas Gato 	$131.00	$200.00	$151.00	6	5	DYSVET
+3.7601E+12	Essential 6 Spot-On Pipetas Perro 20-40kg	$170.00	$250.00	$200.00	9	5	DYSVET
+ F23237	Estrepto Ler 1miu	$53.00	$150.00	$0.00	1	0	aranda 
+ F2324	Estrepto Ler 4mui	$94.00	$200.00	$0.00	0	0	aranda 
+ F24086	Estrepto Ler 6mui	$116.00	$250.00	$0.00	1	0	aranda 
+7.34448E+11	Eti Pets Otico	$155.00	$200.00	$170.00	1	1	aranda 
+ J4F15528 JUNIO 27	Expulsina 10 Ml 	$0.00	$150.00	$100.00	2	1	LAS POTRANCAS
+38100179012	FELINE/NF/3.62kg	$682.00	$900.00	$800.00	1	1	CATSAVET
+ FIPRO	FIPROMED 2-10 KG 	$950.00	$150.00	$0.00	4	0	aranda 
+ 22687-F	"FLOHKEINE SHAMPOO,"	$100.00	$150.00	$115.00	5	2	- Sin Departamento -
+ F-23249	FLOHSIN BARRA 	$51.00	$90.00	$60.00	2	2	- Sin Departamento -
+ F-23283	FLOHSIN SHAMPOO	$81.00	$130.00	$95.00	3	2	- Sin Departamento -
+7.79818E+12	Feline Endo Spot  2.1-5kg INTERNO	$0.00	$250.00	$0.00	1	3	telvet
+7.79818E+12	Feline Full-Spot +5kg INTERNO Y EXTERNO 	$0.00	$300.00	$200.00	7	3	telvet
+7.79818E+12	Feline Full-Spot 0.5-2kg INTERNO Y EXTERNO 	$0.00	$280.00	$190.00	5	3	telvet
+7.50228E+12	Felvital Itraconazol Susp 60 Ml 	$250.00	$380.00	$250.00	0	0	zegues
+7.50228E+12	Felvital L-Carnitina 80ml	$239.00	$280.00	$260.00	4	0	dist.gomez tagle
+7.50228E+12	Felvital Taurina 80ml	$239.00	$280.00	$262.00	1	0	dist.gomez tagle
+7.89804E+12	Fiprolex	$0.00	$230.00	$180.00	0	1	- Sin Departamento -
+7.50636E+12	Fipromed 40 Kg	$170.00	$400.00	$200.00	0	1	ESPINOSA
+7.50636E+12	Fipromed Gatos 5kg	$125.00	$250.00	$140.00	1	2	ESPINOSA
+7.50636E+12	Fipromed Hasta 10 Kg	$137.00	$250.00	$160.00	4	2	ESPINOSA
+7.50636E+12	Fipromed Hasta 20 Kg	$145.00	$300.00	$170.00	2	2	ESPINOSA
+7.50636E+12	Fipromed Hasta 30 Kg	$153.00	$380.00	$180.00	2	2	ESPINOSA
+7.50636E+12	Fipromed Hasta 5 Kg	$130.00	$200.00	$150.00	1	2	ESPINOSA
+7.50228E+12	Flagyplex Antiparasitario Y Giardicida De 60 Ml 	$149.00	$200.00	$170.00	2	3	telvet
+ J3K15249 DIC 2027	Flaxol Susp.30 Ml	$61.00	$160.00	$110.00	2	2	- Sin Departamento -
+ 1E3925B	Flexadin	$281.00	$450.00	$0.00	6	1	ESPINOSA
+ 22333-F	Flohsin	$75.00	$100.00	$0.00	0	2	ADLER
+7.79804E+12	Floxaday 400mg	$357.00	$450.00	$411.00	2	1	segavet
+7.79804E+12	Flurbiprofeno	$364.00	$420.00	$418.00	2	1	segavet
+7.50636E+12	Forte Spray	$125.00	$150.00	$145.00	3	2	segavet
+7.34448E+11	Fortex Tabletas	$175.00	$300.00	$205.00	1	2	- Sin Departamento -
+ FRECAR	Frecardyl	$284.00	$350.00	$0.00	1	0	SANTA MARIA
+7.50634E+12	Fres Care PR	$141.00	$200.00	$0.00	1	0	DYSVET
+7.50634E+12	Fresh Care BB	$141.00	$200.00	$0.00	1	0	DYSVET
+7.50634E+12	Fresh Care CH	$141.00	$200.00	$0.00	1	0	DYSVET
+7.50634E+12	Fresh Care Ck 	$141.00	$200.00	$0.00	1	0	DYSVET
+7.50634E+12	Fresh Care DK	$141.00	$200.00	$0.00	1	0	DYSVET
+7.50634E+12	Fresh Care ET	$141.00	$200.00	$0.00	1	0	DYSVET
+7.50634E+12	Fresh Carr AM 	$141.00	$200.00	$0.00	1	0	DYSVET
+7.50647E+12	Frontline Spray 100ml Solucion Cutanea	$221.00	$250.00	$255.00	0	1	telvet
+7.50647E+12	Frontline Spray 250ml Ectoparasiticida	$363.00	$450.00	$418.00	1	1	telvet
+7.50635E+12	Fungoflux 14 Tab	$220.00	$350.00	$250.00	3	3	ESPINOSA
+7.5021E+12	Furacine 100g	$143.00	$250.00	$165.00	1	1	MERAGRO
+7.50223E+12	Furosi Pets M	$109.80	$250.00	$150.00	2	1	SANTA MARIA
+7.50223E+12	Furosi Pets S 	$84.00	$160.00	$96.00	1	1	SANTA MARIA
+7.50223E+12	Furosipets L	$127.00	$280.00	$150.00	2	1	SANTA MARIA
+7.34448E+11	GENTEX 100 ML 	$358.00	$550.00	$420.00	0	0	aranda 
+7.50223E+12	Gabapentin S 50mg	$129.00	$280.00	$200.00	1	1	SANTA MARIA
+7.50223E+12	Gabapetin L	$312.00	$550.00	$450.00	0	0	SANTA MARIA
+7.50223E+12	Gabapetin M	$195.00	$380.00	$280.00	1	1	SANTA MARIA
+7.50223E+12	Gabapetin XL	$391.00	$500.00	$0.00	1	0	SANTA MARIA
+7.50157E+12	Gasa Seca 	$110.00	$160.00	$135.00	47	10	distr. tapachula
+7.79804E+12	Gel Antiplaca 	$141.00	$250.00	$163.00	1	1	segavet
+7.50636E+12	Gentadex	$148.00	$200.00	$171.00	0	1	- Sin Departamento -
+7.93888E+11	Geriapet 60 Tab	$381.00	$650.00	$440.00	1	1	DEL VALLE
+7.50228E+12	Geriaplex (perros De Edad Avanzada)	$380.00	$550.00	$450.00	0	1	gomez tagle
+7.50228E+12	Gi Restore	$498.00	$700.00	$600.00	4	2	dist.gomez tagle
+7.50634E+12	Giardi Pets Plus Rojo Caja Tab  20kg	$350.00	$550.00	$500.00	1	2	gomez tagle
+7.50634E+12	Giardi Pets Plus Suspension 60ml 	$203.00	$400.00	$0.00	1	0	DYSVET
+7.50634E+12	Giardi Pets Plus Verde Caja 10Kg	$311.00	$550.00	$380.00	2	20	DYSVET
+7.50634E+12	Giardipets Plus Amarillo Caja Tab  1 Kg	$200.00	$300.00	$12.50	1	20	gomez tagle
+7.50226E+12	Gorbazoo 30 Tabs	$83.00	$180.00	$100.00	1	1	HUIMANGUILLO
+7.50226E+12	Gorbazoo 60ml	$50.00	$150.00	$100.00	3	1	HUIMANGUILLO
+7.50636E+12	Gramicidin Oftalmico	$0.00	$240.00	$200.00	6	0	- Sin Departamento -
+7.50109E+12	Grinolon 10 Ml 	$91.00	$150.00	$121.00	7	1	LAS POTRANCAS
+7.50226E+12	Growlac Pets  450g	$121.00	$250.00	$200.00	3	3	HUIMANGUILLO
+1.75022E+13	Guantes Esteriles Ch	$120.00	$200.00	$138.00	1	1	- Sin Departamento -
+1.75022E+13	Guantes Esteriles Med 	$0.00	$200.00	$0.00	0	2	- Sin Departamento -
+ GUA-NE	Guayabera Negra	$80.00	$180.00	$0.00	1	1	accesorios
+7.50657E+12	HEPATO PEEK	$327.00	$500.00	$0.00	2	0	aranda 
+7.34448E+11	HEPATOPETS 	$179.00	$450.00	$350.00	0	2	aranda 
+ HISOPOS	HISOPOS ESTERILES	$517.00	$750.00	$595.00	1	0	SAN LUIS
+7.50302E+12	HUMECTAN	$110.00	$200.00	$180.00	0	0	- Sin Departamento -
+7.34448E+11	HYDRA PETS	$95.00	$150.00	$0.00	2	0	SANTA MARIA
+930879004	Heartgard 12-22kg	$80.00	$150.00	$92.00	1	1	- Sin Departamento -
+930879104	Heartgard 23-45kg 	$105.00	$200.00	$121.00	3	2	SANTA MARIA
+7.50635E+12	Hemofin 30 Tabs	$903.00	"$1,250.00"	"$1,100.00"	1	0	ESPINOSA
+7.89805E+12	Hemolitan Pets 30ml Oral 	$270.00	$400.00	$350.00	3	1	- Sin Departamento -
+123	Hepagen	$650.00	$950.00	$0.00	1	0	SANTA MARIA
+7.50303E+12	Higado De Cerdo Premios Maka	$50.00	$100.00	$70.00	2	1	alimentos colibri
+7.50303E+12	Hueso Horneado 	$60.00	$150.00	$0.00	0	1	alimentos colibri
+7.79804E+12	IQ 180	$460.00	$600.00	$0.00	2	0	segavet
+8.71318E+12	Incurin  30 Comprimidos	$423.00	$550.00	$490.00	2	1	DIPROFARVET
+7.50635E+12	Inmuno-Vet	$280.00	$400.00	$297.00	3	2	ESPINOSA
+7.50635E+12	Inmunovet-Pro	$723.00	$900.00	$0.00	0	0	ESPINOSA
+ IP 2	Ipakitine 300 G	$690.00	$990.00	$800.00	3	1	segavet
+ IPAKITINE	Ipakitine 60grs	$237.00	$480.00	$380.00	3	1	segavet
+7.50223E+12	Itracona Pets  M 50 Mg	$247.00	$390.00	$330.00	0	1	SANTA MARIA
+7.50223E+12	Itracona Pets L 125 Mg	$358.00	$620.00	$500.00	0	1	SANTA MARIA
+7.50223E+12	Itracona Pets S 25 Mg	$164.00	$260.00	$200.00	2	1	SANTA MARIA
+7.50109E+12	Itrasek 20 Tabletas	$397.50	$550.00	$470.00	1	1	el vaquero
+7.50156E+12	Jabon Antiseptico 125ml	$45.00	$100.00	$55.00	1	0	accesorios
+ 12345678+9	Jabon Avena Urus	$0.00	$80.00	$0.00	0	0	- Sin Departamento -
+7.50635E+12	Jabon Insecticida 100gr	$74.00	$130.00	$100.00	20	2	ESPINOSA
+ J2G14346	K-Micin Inyectable 20ml	$100.00	$150.00	$115.00	3	1	- Sin Departamento -
+ K061021	K-Omexin  30 Tabletas 	$126.00	$250.00	$145.00	1	1	DYSVET
+1.23457E+11	KANTEK VETERANO POR KG	$0.00	$140.00	$0.00	9	5	- Sin Departamento -
+7.50635E+12	KIR-ANTHEL  2.5 	$17.20	$50.00	$40.00	235	0	ESPINOSA
+7.50156E+12	KIT PASTA DENTAL	$58.00	$150.00	$67.00	3	0	accesorios
+7.50635E+12	Kalmax 20mg	$20.00	$40.00	$25.00	4	10	- Sin Departamento -
+50332	Kantek Activo 20 Kg	"$1,578.03"	"$1,900.00"	$0.00	1	0	alimentos colibri
+7.503E+12	Kantek Activo 2kg 	$170.00	$270.00	$196.00	0	1	alimentos colibri
+7.503E+12	Kantek Adulto 2 Kg	$0.00	$280.00	$0.00	0	1	colibri
+50331	Kantek Adulto 20 Kg	"$1,521.00"	"$1,800.00"	"$1,680.00"	0	0	alimentos colibri
+75030	Kantek Cachorro 20 Kg 	"$1,301.00"	"$2,000.00"	"$1,700.00"	1	0	alimentos colibri
+7.503E+12	Kantek Cachorro 2kg	$198.97	$300.00	$230.00	3	2	alimentos colibri
+1234565	Kantek Cachorro Kg	$0.00	$120.00	$74.00	7	0	- Sin Departamento -
+7.503E+12	Kantek Felino 3kg	$319.00	$480.00	$380.00	8	2	alimentos colibri
+7.503E+12	Kantek Felinos 1.5kg	$181.58	$250.00	$196.00	7	2	alimentos colibri
+7.503E+12	Kantek Razas Pequeña 2kg	$199.00	$290.00	$230.00	4	2	alimentos colibri
+5030	Kantek Razas Pequeñas 8kg	$693.05	$850.00	$800.00	0	0	alimentos colibri
+7.503E+12	Kantek Veteranos 2kg 	$245.00	$400.00	$360.00	2	0	alimentos colibri
+7503	Katek Veteranos 15 Kg 	"$1,180.00"	"$1,400.00"	$0.00	1	0	alimentos colibri
+7.50635E+12	Kir- Anthel 10	$23.00	$60.00	$50.00	198	0	ESPINOSA
+7.50635E+12	Kir-Anthel 35 Kg	$80.00	$250.00	$120.00	19	1	ESPINOSA
+7.50635E+13	Kir-Anthel MAX 2.5	$19.45	$65.00	$50.00	238	0	ESPINOSA
+7.50635E+12	Kir-Anthel Max 10	$0.00	$75.00	$60.00	196	10	ESPINOSA
+7.50635E+12	Kirodermal Jabon	$99.00	$140.00	$110.00	13	2	ESPINOSA
+ 3C0582B	Kynoselen 100ml 	$500.00	$700.00	$575.00	1	1	segavet
+7.50641E+12	LASARNOL	$83.00	$150.00	$0.00	4	0	aranda 
+ CHUKUS 	LOCION CHUKUS COCO	$55.00	$100.00	$0.00	2	0	DIPROFARVET
+7.50303E+12	Lacto Pets 20 Capsulas 	$105.00	$350.00	$225.00	3	2	DYSVET
+ J2V14129	Lagripet	$75.00	$120.00	$90.00	0	1	- Sin Departamento -
+7.34448E+11	Laxa Pet 100 Gr Pasta Oral (laxante)	$144.00	$280.00	$200.00	1	1	aranda 
+17030006209	Laxatone Gel	$235.00	$390.00	$300.00	1	1	ESPINOSA
+7.404E+12	Lazzio Pipeta 	$120.00	$200.00	$140.00	0	0	LAS POTRANCAS
+22559	Levivet 25 Ml 	$749.00	$900.00	$0.00	1	0	ESPINOSA
+7.50303E+12	Librela (vendivetmab) 30mg .05 A 1 Mg/Kg 	"$1,610.00"	"$2,150.00"	"$1,850.00"	1	1	zoetis zeguez
+7.50303E+12	Librela 10 Mg Vetmedi 10 A 20 Kg	"$1,150.00"	"$1,530.00"	"$1,350.00"	0	1	zoetis zeguez
+7.50303E+12	"Librela 5mg, Vedinvetmab 5a 10 Kg"	$995.00	"$1,325.00"	"$1,150.00"	1	1	zoetis zeguez
+7.50109E+12	Lodyvet 5ml 	$102.00	$200.00	$118.00	0	1	el vaquero
+12345678910	MAKA CACHORRO 4 KG 	$0.00	$480.00	$0.00	0	0	alimentos colibri
+7.50229E+12	MEGADOXI PLUS 60 ML	$88.00	$200.00	$120.00	0	0	TIPACAMU
+1234	MELOXICAM SUSPENCION 	$112.00	$150.00	$135.00	6	3	segavet
+ SIN CODIGO	MICO AID 100ml	$147.00	$240.00	$180.00	0	0	DIAGIPE
+ MICROLILA	MICROTAINER TAPON LILA	$859.00	"$1,000.00"	$988.00	1	0	SAN LUIS
+ MICROVERDE	MICROTAINER TAPON VERDE	$952.00	"$1,200.00"	"$1,095.00"	1	0	SAN LUIS
+ ML68123	MLX Suspencion 30ml	$85.00	$150.00	$98.00	1	2	- Sin Departamento -
+7.50657E+12	MUCO- PEEK 100 ML 	$109.00	$200.00	$0.00	0	0	aranda 
+7.50303E+12	Maka Adulto 2kg 	$168.00	$270.00	$190.00	0	0	GRUPO ISA
+7.50303E+12	Maka Adulto R. Pequeñas 2kg	$195.00	$290.00	$200.00	0	0	GRUPO ISA
+7.50303E+12	Maka Adulto Razas Pequeñas 4 Kg 	$361.00	$500.00	$0.00	0	0	alimentos colibri
+7.50303E+12	Maka Cachorro 2kg 	$195.50	$290.00	$220.00	0	0	GRUPO ISA
+ MAKA 8	Maka Cachorro 8 Kg 	$680.00	$980.00	$0.00	0	0	alimentos colibri
+7.50303E+12	Maka Felinos 3 Kg	$318.00	$480.00	$0.00	0	0	GRUPO ISA
+7.50303E+12	Maka Gato 1.5 kg	$155.00	$250.00	$200.00	2	1	GRUPO ISA
+240043	Maminthol 200gr Unguento 	$105.00	$200.00	$151.00	0	2	HUIMANGUILLO
+7.50635E+12	Marboflox 5mg 100 Tabletas	$417.00	$800.00	$650.00	2	0	gomez tagle
+7.50635E+12	Marboren 10 Tabletas	$231.00	$450.00	$400.00	5	2	ESPINOSA
+7.50635E+12	Marboren-Flu 10 Tabletas	$336.00	$500.00	$450.00	1	2	ESPINOSA
+ J2I14463	Marex Suspensión	$98.00	$150.00	$113.00	0	1	- Sin Departamento -
+7.50201E+12	Megaderm	$545.00	$22.00	$20.00	28	0	- Sin Departamento -
+7.50229E+12	Megadoxi 60ml	$84.00	$170.00	$130.00	0	0	DYSVET
+327	Megludol 25 Ml	$42.00	$120.00	$80.00	3	0	ESPINOSA
+7.50302E+12	Megluvet 20ml 	$48.00	$150.00	$0.00	2	0	- Sin Departamento -
+7.34448E+11	Melodex 100ml Analgesico/ Antiperetico NUEVO 	$248.00	$400.00	$300.00	0	1	aranda 
+7.34448E+11	Melodex Pets 0.5% 20ml	$110.00	$200.00	$127.00	1	1	- Sin Departamento -
+7.34448E+11	Melodex Tabs. 30 Tabletas 	$173.00	$280.00	$0.00	87	30	aranda 
+1234567	Metabolase	$650.00	$950.00	$0.00	2	0	SANTA MARIA
+17030025934	Methigel 120.5gr Tracto Urinario 	$321.00	$400.00	$370.00	1	3	LAS POTRANCAS
+7.50636E+12	Metoclop	$174.00	$300.00	$200.00	1	0	ESPINOSA
+7.50657E+12	Metrolsul-Peek 30ml	$98.00	$150.00	$0.00	0	2	- Sin Departamento -
+7.50634E+12	Metronid 30tab 250mg	$162.00	$290.00	$200.00	3	1	LAS POTRANCAS
+7.50657E+12	Metrosul Tabs 20 U 	$110.00	$250.00	$0.00	1	0	- Sin Departamento -
+7.50657E+12	Metrosul-Peek 60 Ml 	$160.00	$250.00	$0.00	0	0	- Sin Departamento -
+7.50304E+12	Metroxal Pluss Susp 30ml 	$95.00	$150.00	$110.00	0	2	SANTA MARIA
+7.50304E+12	Metroxal Pluss Susp 60ml 	$126.00	$250.00	$180.00	1	2	SANTA MARIA
+ MX84123	Metroxal-Xl 30 Ml	$84.00	$150.00	$90.00	0	1	TIPACAMU
+7.50228E+12	Micoplex Shampoo	$291.00	$380.00	$0.00	0	0	maria concepcion
+7.50228E+12	Micoplex Spay	$211.00	$300.00	$0.00	0	0	maria concepcion
+7.50226E+12	Micotic 20 Tabletas	$103.35	$300.00	$200.00	2	0	- Sin Departamento -
+ M0941023	Midoxal 50ml Inyectable 	$95.00	$150.00	$0.00	3	2	SANTA MARIA
+ MOCH-CH	Mochila Canguro Ch	$0.00	$200.00	$0.00	1	0	accesorios
+ MOCH-M	Mochila Canguro M	$0.00	$300.00	$0.00	1	0	accesorios
+7.34448E+11	Necain	$58.00	$180.00	$130.00	3	2	- Sin Departamento -
+13245578	Neuro In	$803.00	"$1,000.00"	$0.00	1	0	ESPINOSA
+7.50634E+12	Neurotrac Oral 18ml	$30.00	$100.00	$35.00	1	1	MERAGRO
+7.731E+12	NexGard 3.6-7.5kg Tableta Masticable 	$203.58	$310.00	$250.00	1	2	SANTA MARIA
+7.731E+12	Nexgard 15.1-30kg Tab Masticables	$227.58	$450.00	$300.00	0	2	SANTA MARIA
+7.731E+12	Nexgard 2-3.5kg Tab Masticables	$192.00	$280.00	$230.00	1	2	SANTA MARIA
+7.731E+12	Nexgard 30.1-60kg Tab Masticables	$257.00	$500.00	$350.00	2	2	SANTA MARIA
+7.731E+12	Nexgard 7.6-15kg Tab Masticable	$215.00	$380.00	$230.00	1	2	SANTA MARIA
+4.06495E+12	Nexgard Combo (gato) 0.8-2.5 Kg	$195.00	$300.00	$245.00	1	1	- Sin Departamento -
+4.06495E+12	Nexgard Combo (gato) 2.5-7.5 Kg	$212.50	$350.00	$280.00	0	1	- Sin Departamento -
+7.50634E+12	Nutri Covery Cat 180ml 	$322.00	$500.00	$0.00	1	0	DYSVET
+7.50634E+12	Nutri Covery Dog 180ml 	$322.00	$550.00	$0.00	1	0	DYSVET
+7.50201E+12	Nutri Plis Tabs 30	$217.00	$350.00	$249.00	2	0	dis. el vaquero 
+7.50201E+12	Nutri Plus Gel 120.5gr 	$235.00	$380.00	$246.00	0	0	HUIMANGUILLO
+7.50201E+12	Nutri Plus Tabs 60	$343.00	$500.00	$0.00	0	0	dis. el vaquero 
+7.503E+12	Nutriplex Gel	$286.00	$350.00	$300.00	0	1	dist.gomez tagle
+7.50302E+12	OFTACONAZOL (ITRACONAZOL)	$222.00	$340.00	$290.00	2	0	- Sin Departamento -
+7.79804E+12	OHM	$469.00	$500.00	$540.00	0	1	segavet
+7.50302E+12	OLEOVET ENZIMATICO 20 ML	$90.00	$200.00	$150.00	3	0	DIPROFARVET
+12345	OMECAN	$97.00	$150.00	$111.00	1	2	segavet
+7.93888E+11	OMEGA PARA GATOS 	$331.00	$450.00	$400.00	3	0	DEL VALLE
+7.50634E+12	OMEGA TABS 30 TAB	$231.00	$420.00	$380.00	2	0	dist.gomez tagle
+7.50657E+12	OMEPRA-PEEK 20MG	$105.00	$250.00	$150.00	0	0	aranda 
+7.50657E+12	OMEPRA-PEEK 5MG	$91.00	$200.00	$120.00	0	0	aranda 
+7.50641E+12	ONE Suspension  60 Ml	$247.80	$350.00	$290.00	4	2	HUIMANGUILLO
+8.56348E+11	ORGANOMICS FELINOS PATO+PAVO 	$42.00	$70.00	$60.00	0	0	alimentos colibri
+8.56348E+11	ORGANOMICS PATO+POLLO+PAVO	$77.00	$100.00	$90.00	1	0	alimentos colibri
+8.56348E+11	ORGANOMICS SALMON Y PATO 	$77.00	$100.00	$85.00	1	0	alimentos colibri
+7.50634E+12	OTIKO 18 ML	$133.00	$250.00	$0.00	3	0	DYSVET
+7.50657E+12	OTO-PEEK CLEAN 120ML	$123.00	$180.00	$0.00	0	0	aranda 
+7.50109E+12	Obryvet Soluc Oftalmica 10ml	$140.00	$240.00	$161.00	0	1	el vaquero
+7.34448E+11	Ocusol Polvo 	$106.00	$150.00	$130.00	1	1	- Sin Departamento -
+7.79804E+12	Ofloxacina 	$357.00	$420.00	$411.00	2	3	zegues
+7.50636E+12	Oftaldex	$85.00	$150.00	$98.00	0	1	- Sin Departamento -
+7.50636E+12	Oftaldic	$73.00	$150.00	$110.00	3	2	ESPINOSA
+7.50636E+12	Oftalgen	$65.00	$120.00	$100.00	4	1	- Sin Departamento -
+7.50636E+12	Oftalub	$189.00	$300.00	$250.00	6	2	ESPINOSA
+7.34448E+11	Oftocip 	$72.00	$160.00	$130.00	2	0	maria concepcion
+7.34448E+11	Oftoflox Solucion Oftalmica	$101.00	$170.00	$150.00	4	1	- Sin Departamento -
+ OHM 21 TABLETAS 	Ohm Por Tabletas 	$23.00	$25.00	$25.00	21	3	segavet
+ OLEOLAX	Oleo-Lax	$80.00	$170.00	$130.00	2	2	- Sin Departamento -
+7.50302E+12	Oleovet Enzimatico 	$226.00	$350.00	$300.00	3	0	- Sin Departamento -
+7.93888E+11	Omega 60 Tab	$323.00	$500.00	$350.00	2	2	DEL VALLE
+7.50303E+12	Omegatrix 	$181.00	$350.00	$250.00	3	2	DYSVET
+7.50223E+12	Omepra Pets  5 Mg	$127.00	$200.00	$145.00	0	1	SANTA MARIA
+7.50641E+12	One Suspencion 30ml 	$141.40	$220.00	$180.00	0	1	HUIMANGUILLO
+7.50226E+12	One Tableta 	$20.00	$50.00	$30.00	87	10	MERAGRO
+7.34448E+11	Onsec 25 Tab 	$80.00	$250.00	$95.00	0	1	- Sin Departamento -
+7.50109E+12	Opthavet Soluc Oftalmica 5ml	$161.00	$260.00	$200.00	9	1	LAS POTRANCAS
+ F-22316	Osteo-Pet Suplemento 60 Tab	$251.00	$350.00	$289.00	0	2	- Sin Departamento -
+7.50636E+12	Otilav Solucion Otica	$129.00	$150.00	$140.00	4	2	telvet
+7.50302E+12	PARACAINA	$146.00	$240.00	$200.00	1	0	- Sin Departamento -
+7.50303E+12	PET VITALITY 	$150.00	$350.00	$0.00	3	0	SANTA MARIA
+ PIZETAS	PIZETAS 250 ML	$470.00	$650.00	$571.00	3	0	SAN LUIS
+7.50302E+12	POLITRIACINA	$172.00	$300.00	$250.00	1	0	- Sin Departamento -
+ P1	PONCHO TALLA 1	$100.00	$150.00	$0.00	2	0	- Sin Departamento -
+ P2	PONCHO TALLA 2	$100.00	$180.00	$0.00	3	0	accesorios
+ P3	PONCHO TALLA 3	$100.00	$190.00	$0.00	1	0	accesorios
+ P4	PONCHO TALLA 4	$100.00	$220.00	$0.00	4	0	accesorios
+ P5	PONCHO TALLA 5	$100.00	$250.00	$0.00	1	0	accesorios
+ PORTAOB	PORTA OBJETOS	$76.00	$100.00	$88.00	4	0	SAN LUIS
+ PREY PRO 	PRE&PRO BIOS SOBRE 	$37.10	$60.00	$0.00	10	0	ESPINOSA
+7.50304E+12	PREDNILETAS D-10	$172.00	$350.00	$250.00	10	0	- Sin Departamento -
+7.50304E+12	PREDNILETAS D-20	$245.00	$450.00	$350.00	11	0	- Sin Departamento -
+7.50304E+12	PREDNILETAS D-5	$137.00	$280.00	$150.00	11	0	- Sin Departamento -
+ PREGABALYN 30	PREGABALYN 30KG 	$861.00	"$1,200.00"	$0.00	2	0	ESPINOSA
+7.50303E+12	PROPET	$147.00	$350.00	$0.00	2	0	SANTA MARIA
+7.50107E+12	PROPLAN LATAS ADULTO 368GR	$52.00	$100.00	$0.00	7	0	CATSAVET
+7.50107E+12	PROPLAN LATAS PUPPY 368GR	$57.00	$100.00	$0.00	0	0	CATSAVET
+38100171085	PROPLAN VETERYNARI DIETS UR 2.72KG 	$471.00	$650.00	$0.00	0	0	CATSAVET
+ CDOG	Paceador (correa) Con Collar DOG 	$40.00	$120.00	$0.00	9	1	accesorios
+ PCH-COR	Paceador (correa) Con Pechera CH Cordel	$100.00	$180.00	$0.00	2	1	accesorios
+ PM-COR	Paceador (correa) Con Pechera Mediano Cordel 	$120.00	$200.00	$0.00	0	1	accesorios
+ PA-COR	Paceador (correa) Cordel Gd C/Collar	$100.00	$180.00	$0.00	0	1	accesorios
+ J3H15131	Pal Aid 100ml	$85.00	$150.00	$100.00	1	1	- Sin Departamento -
+ J3G15052	Paradex 30 Ml	$0.00	$150.00	$130.00	2	0	- Sin Departamento -
+ PA-1	Paseadores (correa) Piel 	$0.00	$200.00	$0.00	2	0	accesorios
+ PA-2	Paseadores (correa) Tela 	$0.00	$180.00	$0.00	2	0	accesorios
+ PIEL-PECHG	Pechera De Piel Grande	$0.00	$250.00	$0.00	1	0	accesorios
+ PECH-TELG	Pechera De Tela Grande 	$0.00	$350.00	$0.00	0	0	accesorios
+ PECH-PIEL	Pecheras Piel + Correa	$0.00	$120.00	$0.00	3	0	accesorios
+ PECH-TELA	Pecherra + Correa De Tela	$0.00	$120.00	$0.00	1	0	accesorios
+7.50635E+12	Performance Calcio	$160.00	$350.00	$184.00	2	1	dist.gomez tagle
+7.50635E+12	Performance Reconstituyente	$160.00	$350.00	$184.00	1	1	dist.gomez tagle
+7.50641E+12	Pervinal Jarabe	$80.00	$180.00	$100.00	0	0	aranda 
+7.50226E+12	Pet Life  Avena 	$55.22	$120.00	$85.00	0	2	HUIMANGUILLO
+7.50226E+12	Pet Life Arbol De Té	$52.50	$120.00	$70.00	3	5	HUIMANGUILLO
+7.50226E+12	Pet Life Jojoba 	$55.00	$120.00	$85.00	1	2	HUIMANGUILLO
+7.50303E+12	Petflex 30 Cap Colageno Condoprotector	$603.00	$700.00	$694.00	3	3	DYSVET
+7.50328E+11	Petflex Condoprotector 30 Cap	$603.00	$700.00	$694.00	6	2	DYSVET
+7.50304E+12	Petskrim Crema Topica 	$95.00	$180.00	$120.00	24	2	TIPACAMU
+7.89804E+12	Petzi Gatos Desparacitante	$25.00	$50.00	$30.00	3	4	- Sin Departamento -
+7.34448E+11	Pirodex Inyectable 10ml	$100.00	$150.00	$115.00	1	1	- Sin Departamento -
+ 16PLA-3T03	Plato Chico 	$0.00	$70.00	$0.00	0	0	accesorios
+ PPLA	Plato Entrenador 	$0.00	$120.00	$0.00	1	0	alimentos colibri
+7.5064E+12	Pomada Ictiol 25gr	$74.00	$150.00	$85.00	0	1	MERAGRO
+7.79804E+12	Poten Pet Gatos 7gr	$469.00	$550.00	$540.00	1	1	segavet
+7.50228E+12	Pramoxine Shampoo 350ml	$291.00	$380.00	$0.00	2	0	maria concepcion
+7.50228E+12	Pramoxine Spay 	$211.00	$300.00	$0.00	0	0	maria concepcion
+7.5021E+12	Prantel Plus 40kg	$80.00	$200.00	$100.00	11	5	- Sin Departamento -
+7.50635E+12	Pre&pro Bios	$371.00	$600.00	$450.00	1	0	ESPINOSA
+7.50223E+12	Predni Pets L	$212.00	$450.00	$243.00	0	1	SANTA MARIA
+7.50223E+12	Predni Pets M	$196.00	$380.00	$250.00	1	1	SANTA MARIA
+7.50223E+12	Predni Pets Nvr S	$144.00	$280.00	$180.00	1	1	SANTA MARIA
+7.50223E+12	Predni Pets XL	$372.00	$500.00	$0.00	1	0	SANTA MARIA
+7.50228E+12	Predni-Care Antiinflamatorio	$20.00	$50.00	$25.00	2	5	- Sin Departamento -
+7.50109E+12	Predoftal 5ml	$112.00	$200.00	$126.00	8	1	LAS POTRANCAS
+7.50636E+12	Pregabalin-5 30tabs	$286.00	$480.00	$390.00	2	0	ESPINOSA
+7.50636E+12	Pregabalyn-10 30 Tabs	$392.00	$580.00	$500.00	2	1	ESPINOSA
+ 8333C	Prifinial Comprimidos 8	$274.00	$500.00	$0.00	6	0	ESPINOSA
+ 1C3582C	Prifinial Solución	$265.00	$500.00	$450.00	0	1	segavet
+6.71876E+11	Probioticos Gato 130 Tabs	$110.00	$250.00	$200.00	0	0	aranda 
+6.71876E+11	Probioticos Para Perro 130 Tabs	$110.00	$250.00	$220.00	0	0	aranda 
+7.50107E+12	Proplan/Lata/CN/156g	$54.64	$100.00	$80.00	5	1	CATSAVET
+7.50107E+12	Proplan/Lata/EN/156g	$54.64	$100.00	$80.00	4	1	CATSAVET
+7.50107E+12	Proplan/Lata/NF/377g	$59.62	$100.00	$80.00	2	1	CATSAVET
+38100120144	Proplan/Lata/UR/156g	$54.64	$100.00	$80.00	4	1	CATSAVET
+7.79818E+12	Protech Gatos +5kg	$85.00	$150.00	$98.00	3	3	telvet
+7.79818E+12	Protech Gatos 5kg	$75.00	$120.00	$87.00	9	3	telvet
+7.79818E+12	Protech Pipeta +40kg	$250.00	$500.00	$288.00	0	2	DYSVET
+ PRO1	Proteina 500	$120.00	$250.00	$138.00	1	1	- Sin Departamento -
+7.79804E+12	Proteliv Pasta Para Gatos 	$500.00	$700.00	$575.00	0	1	segavet
+ PRUBAS3ERLANA	Prueba Rapida Biosintec EHR/BAB/ANA	$342.00	$700.00	$450.00	5	0	DEL VALLE
+8.80914E+12	Prueba Rapida CDV	$285.00	$600.00	$380.00	8	2	SANTA MARIA
+8.80914E+12	Prueba Rapida CPV Biosintec	$239.00	$500.00	$350.00	7	2	SANTA MARIA
+ TETSR LEUCEMIAFEL	Prueba Rapida De Leucemia/Inmunodeficiencia	$0.00	$600.00	$400.00	1	0	DEL VALLE
+ TESK DISTEMPER 	Prueba Rapida Distemper Canino Biosintek	$208.00	$550.00	$310.00	7	0	DEL VALLE
+ J3L15300	Pulgaton Shampoo 250ml	$84.00	$120.00	$112.00	4	2	- Sin Departamento -
+ PULGAT	Pulgaton Talco 	$87.00	$150.00	$0.00	4	2	LAS POTRANCAS
+3.7601E+12	Pyoclean Oto Pipetas	$47.00	$100.00	$55.00	11	5	DYSVET
+ Q-7300-043	Q-Pet Antiparasitario Inyectable	$100.00	$200.00	$115.00	3	1	- Sin Departamento -
+10300	QUIMICA SANGUINEA	$0.00	$750.00	$0.00	0	0	DEL VALLE
+10292	QUIMICA SANGUINEA 	$0.00	$750.00	$0.00	0	0	DEL VALLE
+10293	QUIMICA SANGUINEA	$0.00	$750.00	$0.00	1	0	DEL VALLE
+10294	QUIMICA SANGUINEA 	$0.00	$750.00	$0.00	0	0	DEL VALLE
+10295	QUIMICA SANGUINEA 	$0.00	$750.00	$0.00	0	0	DEL VALLE
+10296	QUIMICA SANGUINEA 	$0.00	$750.00	$0.00	1	0	DEL VALLE
+10297	QUIMICA SANGUINEA 	$0.00	$750.00	$0.00	0	0	DEL VALLE
+10298	QUIMICA SANGUINEA 	$0.00	$750.00	$0.00	0	0	DEL VALLE
+10299	QUIMICA SANGUINEA 	$0.00	$750.00	$0.00	0	0	DEL VALLE
+7.50302E+12	QUIMIPIROMA 50 ML	$68.00	$150.00	$80.00	2	0	- Sin Departamento -
+7.50302E+12	Quimigen 100ml 	$292.00	$400.00	$340.00	2	0	- Sin Departamento -
+7.50302E+12	Quimiopirona 20ml	$35.00	$100.00	$0.00	4	0	- Sin Departamento -
+7.50223E+12	RAMIPRIL PLUS 5 	$332.00	$550.00	$350.00	5	0	SANTA MARIA
+ Q274945	RENALOF 30ML	$366.00	$650.00	$500.00	0	1	ESPINOSA
+7.503E+12	RX Spectrum 20 Tabs	$250.00	$300.00	$287.00	0	0	dist.gomez tagle
+7.50228E+12	RX. Relaxicam 10ml 	$84.00	$150.00	$92.00	0	0	dist.gomez tagle
+7.50223E+12	Ramipril L	$550.00	$800.00	$0.00	1	0	SANTA MARIA
+7.50223E+12	Ramipril M	$341.00	$600.00	$0.00	1	0	SANTA MARIA
+7.50223E+12	Ramipril S	$232.00	$450.00	$0.00	7	0	SANTA MARIA
+7.50641E+12	Ran-Tac	$110.00	$200.00	$127.00	0	1	- Sin Departamento -
+8.47E+12	Renalof 150ml 	"$1,290.00"	"$1,800.00"	"$1,450.00"	2	1	ESPINOSA
+7.50302E+12	Renaquel Can	$664.00	$950.00	$860.00	1	1	DYSVET
+7.50302E+12	Renaquel Fel	$628.00	$850.00	$811.00	0	1	DYSVET
+7517127	Repelente Entranador 	$110.00	$200.00	$150.00	1	0	DIPROFARVET
+7.50636E+12	Respimed 30 Tab	$194.00	$300.00	$240.00	4	1	ESPINOSA
+7.50635E+12	Resveflex 20	$0.00	"$1,300.00"	$950.00	3	2	ESPINOSA
+7.50635E+12	Resveflex-P	$642.07	"$1,200.00"	"$1,000.00"	4	1	ESPINOSA
+30111447258	Royal Canin Lata Gastrointestinal Para Gatos 145gr	$60.00	$80.00	$70.00	2	0	Diveca
+30111442819	Royal Canin Satiety Support 145gr	$60.00	$80.00	$70.00	0	1	Diveca
+ ARENASCOOP 	SCOOP AWAY 4.75 KG 	$0.00	$220.00	$0.00	4	0	PAU
+7.50109E+12	SEVERIN (NIMESULINA) 60ML	$144.50	$250.00	$190.00	3	0	LAS POTRANCAS
+ MUI 1	STREPTO LER 1 MUI	$61.00	$140.00	$0.00	2	0	aranda 
+ Q-097-023	STREPTO LER 2 MUI	$81.00	$150.00	$0.00	2	0	aranda 
+ Q-0970-024	STREPTO LER 4MUI	$109.00	$200.00	$0.00	2	0	aranda 
+7.50635E+12	SUCRALVET 30 Ml 	$231.00	$550.00	$0.00	3	0	ESPINOSA
+7.50304E+12	SULFAXAL PLUS 100 ML	$105.00	$250.00	$180.00	17	0	- Sin Departamento -
+7.50304E+12	SULFAXAL PLUS 60 ML	$89.00	$180.00	$130.00	16	0	- Sin Departamento -
+ SUO	SUO.OPLEX 20ML	$85.00	$150.00	$0.00	2	0	LAS POTRANCAS
+7.34448E+11	Sanitor Forte Gotero	$52.00	$120.00	$70.00	7	3	aranda 
+7.50641E+12	Sanitor Forte Spray	$87.00	$100.00	$100.00	1	2	- Sin Departamento -
+7.70712E+12	Sanivet Plus 40gr Crema Topica 	$180.00	$180.00	$180.00	0	1	LAS POTRANCAS
+7.50635E+12	Secrets Active	$121.00	$180.00	$140.00	2	2	dist.gomez tagle
+7.50635E+12	Secrets Home	$121.00	$180.00	$140.00	0	2	dist.gomez tagle
+7.50634E+12	Sedalpharma-Pentobarbital Sodico 100ml	$500.00	$645.00	$575.00	1	1	- Sin Departamento -
+7.50635E+12	Shampoo Black Hair	$124.00	$180.00	$143.00	4	2	dist.gomez tagle
+7.34448E+11	Shampoo En Seco	$195.00	$300.00	$225.00	1	1	- Sin Departamento -
+7.50635E+12	Shampoo Y Acondicionador Wuite Hair	$124.00	$180.00	$143.00	3	2	dist.gomez tagle
+7.50635E+12	Siliprotec Natural  60 Tab	$325.00	$550.00	$350.00	1	1	ESPINOSA
+ 635187Z	Simparica	$0.00	$250.00	$0.00	0.5	2	- Sin Departamento -
+5.41474E+12	Simparica 10-20kg	$155.00	$280.00	$220.00	1	3	zegues
+5.41474E+12	Simparica 2.5-5	$137.00	$230.00	$170.00	1	3	zegues
+5.41474E+12	Simparica 20-40kg	$170.00	$350.00	$200.00	4	3	zegues
+5.41474E+12	Simparica 5-10kg	$145.00	$260.00	$200.00	1	0	zegues
+5.41474E+12	Simparica Trio 10-20kg De Pv	$183.00	$380.00	$230.00	2	2	TIPACAMU
+5.41474E+12	Simparica Trio 2.5-5kg	$170.00	$320.00	$200.00	10	5	zegues
+5.41474E+12	Simparica Trio 20-40 Kg	$192.50	$420.00	$250.00	0	0	TIPACAMU
+5.41474E+12	Simparica Trio 40-60kg	$195.00	$450.00	$225.00	1	0	HUIMANGUILLO
+5.41474E+12	Simparica Trio 5-10kg	$173.00	$370.00	$210.00	0	0	TIPACAMU
+7.50636E+12	Sindol Oral Gotas	$165.00	$250.00	$200.00	4	1	ESPINOSA
+7.50636E+12	Sindol Unguento 200g	$209.00	$350.00	$250.00	1	0	ESPINOSA
+7.50301E+12	Soluvet 5 Lts	$739.00	"$1,000.00"	$850.00	1	0	DIPROFARVET
+7.50635E+12	Spiruvet	$332.50	$450.00	$380.00	3	1	ESPINOSA
+6.71876E+11	Stay Mighty	$200.00	$400.00	$220.00	1	0	aranda 
+7.50635E+12	Sucral Kiron 	$161.25	$280.00	$240.00	4	0	ESPINOSA
+7.50635E+12	Sucralvet 15 Ml 	$0.00	$380.00	$0.00	3	3	ESPINOSA
+7.50304E+12	Sukral-On 100ml	$189.00	$300.00	$250.00	2	0	ESPINOSA
+7.50304E+12	Sukral-On Susp 60ml	$154.00	$280.00	$220.00	0	2	ESPINOSA
+7.34448E+11	Sulfaprim	$353.00	$550.00	$420.00	1	0	- Sin Departamento -
+ SUPERFLUMI4	Super Flumin-Strep 4 Millones	$168.00	$250.00	$190.00	14	3	MERAGRO
+7.50014E+12	Suturas Acido Piliglicolico #0	$350.00	$520.00	$403.00	39	5	distr. tapachula
+7.50014E+12	Suturas Acido Poliglicolico #1	$350.00	$520.00	$350.00	118	10	distr. tapachula
+7.50126E+12	Suturas Polidioxanona Monofilamentos #3	$350.00	$520.00	$350.00	4	1	distr. tapachula
+8.71318E+12	T61	"$1,073.00"	"$1,500.00"	"$1,250.00"	2	0	segavet
+7.89619E+12	TAKTIK 200ML 	$313.00	$500.00	$380.00	0	0	DIPROFARVET
+ TINCION	TINCIÓN DIFF QUICK PACK 3	"$1,365.00"	"$1,365.00"	"$1,365.00"	1	0	SAN LUIS
+7.50302E+12	TOBRACETIL	$183.00	$300.00	$250.00	2	0	- Sin Departamento -
+7.50223E+12	TOBRAPETS GOTAS 10 ML 	$114.00	$200.00	$170.00	0	0	SANTA MARIA
+7.50657E+12	TRAMA-PEEK 30ML	$73.00	$150.00	$0.00	0	0	aranda 
+7.50223E+12	TRAMADOL JET 	$265.00	$350.00	$0.00	1	0	SANTA MARIA
+7.50223E+12	TRAMADOL L TABLETAS	$177.00	$280.00	$0.00	1	0	SANTA MARIA
+7.50223E+12	TRANSPORTADORA E. CHICA 	$276.00	$600.00	$0.00	1	0	colibri
+ TRANS 3	TRANSPORTADORA GATO AZUL 	$209.00	$450.00	$0.00	0	0	accesorios
+ TRANPORTADORA	TRANSPORTADORA HOJAS	$209.00	$450.00	$0.00	0	0	- Sin Departamento -
+ TRASN2	TRASNPORTADORA MANGITOS GATO	$209.00	$450.00	$0.00	0	0	accesorios
+7.50223E+12	TRASPORTADORA DOBLE PUERTA. R 	$380.00	$950.00	$0.00	0	0	colibri
+7.50223E+12	TRASPORTADORA GRANDE Mediana 	$829.00	"$1,250.00"	$0.00	1	0	colibri
+ TRIMELER	TRIMELER 24 	$323.00	$500.00	$400.00	1	0	aranda 
+7.34448E+11	Talco Antipulgas Clean Guard	$84.00	$150.00	$95.00	0	0	- Sin Departamento -
+7.79818E+12	Tau Oftalmico Morado Clorafenicol/ Oftalmico 	$190.00	$290.00	$219.00	0	1	- Sin Departamento -
+7.79818E+12	Tau Oftalmico Simple 10ml	$120.00	$250.00	$138.00	2	1	- Sin Departamento -
+7.50635E+12	Terbigerm Otico 	$350.00	$450.00	$0.00	1	0	ESPINOSA
+7.50635E+12	Terbigerm Shampoo	$287.00	$380.00	$330.00	4	1	ESPINOSA
+7.50635E+12	Terbigerm Spray	$200.00	$350.00	$230.00	1	2	ESPINOSA
+7.50635E+12	Terbigerm-P Spray 120ml 	$308.00	$370.00	$350.00	3	3	ESPINOSA
+7.50635E+12	Terbinafin Tabletas	$240.00	$400.00	$280.00	6	0	ESPINOSA
+7.50634E+12	Terzoo Jabon De Avena 80gr	$62.00	$90.00	$72.00	1	2	LAS POTRANCAS
+7.50635E+12	Tilosinn 300	$430.00	$550.00	$0.00	1	1	ESPINOSA
+7.50635E+12	Tilossin 100	$252.00	$360.00	$300.00	3	1	ESPINOSA
+7.50635E+12	Toledinn 50 Ml 	$238.00	$350.00	$274.00	1	1	ESPINOSA
+7.34448E+11	Trafull 10kg 	$25.00	$50.00	$30.00	2	5	- Sin Departamento -
+7.50223E+12	Transportadora Chica Reforzada 	$445.00	$820.00	$0.00	0	0	alimentos colibri
+7.50223E+12	Transportadora Grande Reforzada 	"$1,499.00"	"$2,300.00"	"$1,800.00"	0	0	alimentos colibri
+7.50223E+12	Transportadora Mediana Ecom 	$515.00	$800.00	$0.00	0	0	colibri
+ KIT 3	Tratamiento Ojo Seco	$541.00	$750.00	$700.00	1	3	SANTA MARIA
+ KIT 1	Tratamiento Para Ulcera Complicada	$412.00	$700.00	$600.00	1	1	SANTA MARIA
+ KIT 2	Tratamiento Para Ulcera Simple	$387.00	$600.00	$500.00	1	3	SANTA MARIA
+5.50302E+12	Travosant	$356.00	$550.00	$410.00	3	1	SANTA MARIA
+ J2L14643	Tremax 12 Tab Analgesico Antiinflamatorio Y Antipiretico	$133.00	$300.00	$200.00	2	1	DIPROFARVET
+7.50636E+12	Trimidol 20ml	$302.00	$400.00	$0.00	2	0	ESPINOSA
+ VC.F3	Triple Felina MAS RABIA VIBIX F3 + R	$150.00	$350.00	$200.00	11	3	- Sin Departamento -
+ 47382 K	Tylogen Reforzado 100ml	$420.00	$800.00	$483.00	1	3	MERAGRO
+ 43782K	Tylogen Reforzado 50 Ml	$299.00	$500.00	$345.00	1	1	MERAGRO
+8.43623E+11	URANOTEST FelV-FIV	$363.00	$600.00	$420.00	13	3	segavet
+7.50302E+12	Ulcera Corneal Complicada	$412.00	$600.00	$500.00	2	1	SANTA MARIA
+7.50302E+12	Ulcera Corneal Simple	$365.00	$550.00	$480.00	0	1	SANTA MARIA
+7.50635E+12	Ulcetrat 50 10 Tabletas	$15.00	$35.00	$22.00	6	6	ESPINOSA
+8.43653E+12	Uranotest Copro	$300.00	$450.00	$400.00	9	2	- Sin Departamento -
+8.43653E+12	Uranotest Quattro	$545.00	$700.00	$650.00	3	1	- Sin Departamento -
+7.50635E+12	Uro-In	$555.00	$750.00	$0.00	1	0	ESPINOSA
+40041895	VAC BRONCHICINE	$85.00	$250.00	$120.00	18	3	TIPACAMU
+40034650	VAC CPV PLUS	$77.00	$200.00	$100.00	25	5	- Sin Departamento -
+83976102	VAC FELINA FELIGEN CRP/R	$188.00	$450.00	$250.00	0	5	- Sin Departamento -
+7.50201E+12	VACUNA TRIPLE FELINA 	$128.00	$300.00	$183.00	19	3	segavet
+7.50634E+12	VITHA TABS 30 TAB	$143.00	$260.00	$200.00	0	0	dist.gomez tagle
+7.50634E+12	VITHA TABS SB RAZAS PEQUE	$157.00	$260.00	$200.00	0	0	dist.gomez tagle
+7.50634E+12	VITHA TABS SENIOR 30 TAB	$219.00	$400.00	$330.00	1	0	dist.gomez tagle
+ VC.BO	Vacuna Bordetella	$95.60	$300.00	$100.00	15	3	- Sin Departamento -
+ VC.L	Vacuna Contra Leucemia Felina 	$147.00	$300.00	$170.00	1	3	- Sin Departamento -
+8.71318E+12	Vacuna DP Msd	$170.00	$250.00	$200.00	0	5	- Sin Departamento -
+ VC.G	Vacuna Giardia 	$152.00	$250.00	$175.00	18	3	TIPACAMU
+75039967	Vacuna Inmunovax 5	$0.00	$350.00	$0.00	0	5	- Sin Departamento -
+ VAC	Vacuna Parvo Corona	$73.30	$200.00	$90.00	0	5	TIPACAMU
+ VC.	Vacuna Parvo Norvet	$75.00	$200.00	$90.00	0	10	TIPACAMU
+11111	Vacuna Parvo Zoetis	$77.00	$200.00	$95.00	21	5	TIPACAMU
+ VC.5	Vacuna Quintuple 	$118.60	$350.00	$150.00	9	3	TIPACAMU
+ VC.D	Vacuna Rabia 	$42.50	$150.00	$85.00	27	10	TIPACAMU
+6666	Vacuna Sextuple	$0.00	$400.00	$0.00	12	0	- Sin Departamento -
+ VC.T	Vacuna Triple	$88.40	$250.00	$120.00	10	5	TIPACAMU
+7.50105E+12	Vatriderm/ Jabon Dermatologico/100gr	$90.26	$140.00	$110.00	0	1	CATSAVET
+ LSAS94006	Venda Elastica 	$15.00	$30.00	$25.00	8	5	- Sin Departamento -
+5.70319E+12	Venda Elastica Con Patron 	$45.00	$100.00	$52.00	9	3	- Sin Departamento -
+ VT16923	Venzil 2.5kg 20 Tab	$15.00	$30.00	$25.00	20	20	SANTA MARIA
+ VT201223	Venzil-10kg 60 Tab	$20.00	$50.00	$30.00	58	60	SANTA MARIA
+ VERED	Veredcan 50 ml	$60.00	$120.00	$70.00	1	3	segavet
+202305	Vermicam Antiparasitario De 50ml 	$75.00	$150.00	$90.00	5	3	segavet
+ VES-NE	Vestido Chico Negro	$80.00	$110.00	$0.00	1	1	accesorios
+ VES-RO	Vestido Rojo Mediano 	$80.00	$160.00	$0.00	1	1	accesorios
+7.50301E+12	Veteribac 120ml Antiseptico	$135.00	$180.00	$156.00	2	3	DIPROFARVET
+7.50636E+12	Veteribac 60ml Antiseptico 	$0.00	$120.00	$96.00	0	3	DIPROFARVET
+7.50301E+12	Veteribac 75gr Gel Antiseptico	$135.00	$250.00	$170.00	0	3	DIPROFARVET
+7.50636E+12	Veteribac Gel 500g	$322.00	$450.00	$370.00	0	0	DIPROFARVET
+5.42004E+12	Vetriderms Shampoo	$0.00	$250.00	$140.00	3	0	- Sin Departamento -
+7.50634E+12	Virustad 50 Ml Cad Feb 2026	$0.00	$250.00	$0.00	1	1	- Sin Departamento -
+7.34448E+11	Vita.Joint Pet 50 Tab	$419.00	$600.00	$487.00	0	2	- Sin Departamento -
+ F-23093	Vitaler Puppy 60 Tab	$212.00	$350.00	$244.00	1	1	aranda 
+7.34448E+11	Vitalex Pet 100gr	$165.00	$250.00	$190.00	0	1	- Sin Departamento -
+ 212101P	Vitaminas+carnitina 150ml Sol. Oral	$270.00	$390.00	$320.00	0	1	LAS POTRANCAS
+7.50634E+12	Vitare 60 Ml 	$171.00	$250.00	$181.00	0	0	LAS POTRANCAS
+7.50634E+12	Vitare TUBO  60gr	$168.00	$250.00	$220.00	5	2	LAS POTRANCAS
+7.79804E+12	Viviram-V 	$690.00	$750.00	$750.00	2	1	segavet
+ 662302P	Xilazina Al 10% 50ml	"$4,500.00"	$750.00	$600.00	14	2	- Sin Departamento -
+250201	Yail Sapray 100 Ml 	$148.00	$200.00	$170.00	1	0	ESPINOSA
+7.34448E+11	Yodo Desinfectante 120 Ml	$89.00	$120.00	$100.00	1	2	DIAGIPE
+ YODO	Yodo Ver 120ml	$63.00	$80.00	$73.00	0	2	LAS POTRANCAS
+ ZAC	ZAUNA Dulce Tentacion 	$230.00	$350.00	$0.00	0	0	DIPROFARVET
+ ZA	ZAUNA Mar Fresco	$230.00	$350.00	$0.00	0	0	DIPROFARVET
+7.50109E+12	ZONAVET	$182.00	$260.00	$0.00	6	0	LAS POTRANCAS
+7.50302E+12	Zeax Suplemento Oftalmico 45 Tabletas 	$338.00	$750.00	$500.00	0	0	SANTA MARIA
+7.50302E+12	Zeax Suplemento Oftalmico 90 Capsulas	$677.00	$950.00	$850.00	0	1	SANTA MARIA
+ J3D14847	Zolcin 12 Tab Antibiotico (problemas Digestivos) 	$109.00	$280.00	$120.00	1	3	DIPROFARVET
+7.50201E+12	Zoletil 100	"$5,200.00"	$720.00	$560.00	15	3	- Sin Departamento -
+7.50109E+12	Zopol Grin 10ml	$165.00	$300.00	$190.00	2	1	el vaquero
+7.34448E+11	Zuri-Cox Antiparasitario De 100ml	$144.00	$250.00	$166.00	0	3	HUIMANGUILLO
+ J2I14513	Zytrochem 6 Tab 	$84.00	$200.00	$100.00	2	2	- Sin Departamento -

@@ -1,0 +1,6 @@
+# Base de datos y archivos generados
+*.db
+__pycache__/
+
+# Licencias y secretos
+licencia.dat
