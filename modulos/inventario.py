@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import ttk, messagebox, filedialog
+from tkinter import ttk, messagebox, filedialog, simpledialog
 from datetime import datetime, timedelta
 import os
 import shutil
@@ -10,6 +10,22 @@ class PestanaInventario(tk.Frame):
     def __init__(self, parent):
         super().__init__(parent, bg=config.COLOR_FONDO)
         self.setup_ui()
+
+    def verificar_pin(self):
+        pin = simpledialog.askstring("Seguridad", "Ingrese el PIN de Administrador:", show='*', parent=self)
+        if not pin: return False
+        
+        conn = db.conectar(); cursor = conn.cursor()
+        cursor.execute("SELECT valor FROM configuracion WHERE clave='pin_admin'")
+        res = cursor.fetchone()
+        conn.close()
+        
+        pin_real = res[0] if res else "1234"
+        if pin == pin_real:
+            return True
+        else:
+            messagebox.showerror("Acceso Denegado", "El PIN ingresado es incorrecto.")
+            return False
 
     def normalizar_fecha_db(self, texto_fecha):
         if not texto_fecha or texto_fecha.strip() == "": return "2030-01-01"
@@ -62,6 +78,16 @@ class PestanaInventario(tk.Frame):
         mk_btn("ELIMINAR", "#C0392B", self.eliminar_producto)
         mk_btn("USB", "#8E44AD", self.respaldar_usb)
 
+        # --- BARRA DE BÚSQUEDA ---
+        f_search = tk.Frame(self, bg="#F4F6F7", padx=15, pady=5)
+        f_search.pack(fill="x")
+        
+        tk.Label(f_search, text="🔍 Buscar Producto (Código o Nombre):", bg="#F4F6F7", font=("Segoe UI", 10, "bold"), fg="#2C3E50").pack(side="left")
+        self.e_buscar_inv = ttk.Entry(f_search, font=("Segoe UI", 11))
+        self.e_buscar_inv.pack(side="left", fill="x", expand=True, padx=10)
+        self.e_buscar_inv.bind("<KeyRelease>", lambda e: self.cargar_inventario_completo(self.e_buscar_inv.get().strip()))
+
+        # --- TABLA DE INVENTARIO ---
         cols_inv = ("Cod", "Nom", "Lab", "Costo", "Pub", "Col", "Stock", "Cad")
         self.tree_inv = ttk.Treeview(self, columns=cols_inv, show="headings")
         headers = ["CÓDIGO", "NOMBRE DEL PRODUCTO", "LABORATORIO", "COSTO", "P. PÚBLICO", "P. COLEGA", "STOCK", "CADUCIDAD"]
@@ -82,30 +108,46 @@ class PestanaInventario(tk.Frame):
         
         self.tree_inv.bind("<Double-1>", self.llenar_form_inv)
         
+        # --- LEYENDA INTERACTIVA (FILTROS POR COLOR) ---
         f_legend = tk.Frame(self, bg="#2C3E50", pady=5)
         f_legend.pack(fill="x")
         
-        def mk_leg(txt, col, fg="black"):
-            lbl = tk.Label(f_legend, text=f"  {txt}  ", bg=col, fg=fg, font=("Segoe UI", 9, "bold"))
+        def mk_leg(txt, col, tag_name, fg="black"):
+            lbl = tk.Label(f_legend, text=f"  {txt}  ", bg=col, fg=fg, font=("Segoe UI", 9, "bold"), cursor="hand2")
             lbl.pack(side="left", padx=10)
+            lbl.bind("<Button-1>", lambda e, t=tag_name: self.cargar_inventario_completo(self.e_buscar_inv.get().strip(), filtro_estado=t))
             
-        tk.Label(f_legend, text="SIGNIFICADO DE COLORES:", bg="#2C3E50", fg="white", font=("Segoe UI", 10)).pack(side="left", padx=10)
-        mk_leg("AGOTADO (0 STOCK)", "#FFCDD2")
-        mk_leg("POR CADUCAR (60 DÍAS)", "#FFE0B2")
-        mk_leg("STOCK BAJO", "#FFF9C4")
-        mk_leg("¡YA CADUCÓ!", "#D32F2F", "white")
+        tk.Label(f_legend, text="FILTRAR POR ESTADO (CLIC):", bg="#2C3E50", fg="white", font=("Segoe UI", 10, "bold")).pack(side="left", padx=10)
+        
+        mk_leg("AGOTADO (0 STOCK)", "#FFCDD2", "agotado")
+        mk_leg("POR CADUCAR (60 DÍAS)", "#FFE0B2", "por_caducar")
+        mk_leg("STOCK BAJO", "#FFF9C4", "bajo")
+        mk_leg("¡YA CADUCÓ!", "#D32F2F", "caducado", "white")
+
+        lbl_todos = tk.Label(f_legend, text=" 🔄 VER TODOS ", bg="#3498db", fg="white", font=("Segoe UI", 9, "bold"), cursor="hand2")
+        lbl_todos.pack(side="right", padx=15)
+        lbl_todos.bind("<Button-1>", lambda e: self.cargar_inventario_completo(self.e_buscar_inv.get().strip(), filtro_estado=None))
 
         self.cargar_inventario_completo()
 
-    def cargar_inventario_completo(self):
+    def cargar_inventario_completo(self, query="", filtro_estado=None):
         for i in self.tree_inv.get_children(): self.tree_inv.delete(i)
         hoy = datetime.now().date()
         limite = hoy + timedelta(days=60)
 
         conn = db.conectar(); cursor = conn.cursor()
-        sql = """SELECT p.codigo, p.nombre, p.laboratorio, p.costo_referencia, p.precio_publico, p.precio_mayoreo, SUM(IFNULL(l.cantidad, 0)), p.stock_minimo, MIN(l.fecha_caducidad)
-            FROM productos p LEFT JOIN lotes l ON p.codigo = l.codigo_producto GROUP BY p.codigo"""
-        cursor.execute(sql)
+        
+        if query:
+            sql = """SELECT p.codigo, p.nombre, p.laboratorio, p.costo_referencia, p.precio_publico, p.precio_mayoreo, SUM(IFNULL(l.cantidad, 0)), p.stock_minimo, MIN(l.fecha_caducidad)
+                FROM productos p LEFT JOIN lotes l ON p.codigo = l.codigo_producto 
+                WHERE p.codigo LIKE ? OR p.nombre LIKE ?
+                GROUP BY p.codigo"""
+            cursor.execute(sql, (f"%{query}%", f"%{query}%"))
+        else:
+            sql = """SELECT p.codigo, p.nombre, p.laboratorio, p.costo_referencia, p.precio_publico, p.precio_mayoreo, SUM(IFNULL(l.cantidad, 0)), p.stock_minimo, MIN(l.fecha_caducidad)
+                FROM productos p LEFT JOIN lotes l ON p.codigo = l.codigo_producto GROUP BY p.codigo"""
+            cursor.execute(sql)
+            
         rows = cursor.fetchall()
         conn.close()
 
@@ -128,6 +170,9 @@ class PestanaInventario(tk.Frame):
                 elif stock <= st_min: tag = "bajo"
             elif stock <= st_min: tag = "bajo"
             
+            if filtro_estado and tag != filtro_estado:
+                continue
+                
             try: cost = f"${float(row[3]):.2f}"; pub = f"${float(row[4]):.2f}"; col = f"${float(row[5]):.2f}"
             except: cost=pub=col="$0.00"
             
@@ -162,37 +207,53 @@ class PestanaInventario(tk.Frame):
 
     def guardar_producto(self):
         try:
+            codigo = self.e_cod.get()
+            if not codigo: return
+            
+            try: n_st = int(self.e_stock.get())
+            except: n_st = 0
+            
+            # Verificación de Seguridad: ¿Están intentando reducir el stock manualmente?
+            conn = db.conectar(); cursor = conn.cursor()
+            cursor.execute("SELECT SUM(cantidad) FROM lotes WHERE codigo_producto=?", (codigo,))
+            res = cursor.fetchone()
+            stock_actual = res[0] if res and res[0] else 0
+            conn.close()
+            
+            if n_st < stock_actual:
+                if not self.verificar_pin():
+                    return # Si el PIN es incorrecto o cancelan, se aborta el guardado
+            
             try: cost=float(self.e_cost.get()); col=float(self.e_col.get()); pub=float(self.e_pub.get()); st_min=int(self.e_min.get())
             except: cost=0; col=0; pub=0; st_min=1
             
             if col < cost * 1.5:
                 if not messagebox.askyesno("Alerta", f"Precio Colega bajo.\nCosto: {cost}\nSugerido: {cost*1.5}\n¿Guardar?"): return
 
-            vals = (self.e_cod.get(), self.e_nom.get(), 'General', self.e_lab.get(), cost, pub, col, st_min)
-            
-            try: n_st = int(self.e_stock.get())
-            except: n_st = 0
-            
+            vals = (codigo, self.e_nom.get(), 'General', self.e_lab.get(), cost, pub, col, st_min)
             fecha_final = self.normalizar_fecha_db(self.e_cad.get())
             
             conn = db.conectar(); cursor = conn.cursor()
             cursor.execute("INSERT OR REPLACE INTO productos VALUES (?,?,?,?,?,?,?,?)", vals)
-            cursor.execute("DELETE FROM lotes WHERE codigo_producto=?", (vals[0],))
-            cursor.execute("INSERT INTO lotes (codigo_producto, cantidad, fecha_caducidad) VALUES (?, ?, ?)", (vals[0], n_st, fecha_final))
+            cursor.execute("DELETE FROM lotes WHERE codigo_producto=?", (codigo,))
+            cursor.execute("INSERT INTO lotes (codigo_producto, cantidad, fecha_caducidad) VALUES (?, ?, ?)", (codigo, n_st, fecha_final))
             conn.commit(); conn.close()
 
-            self.cargar_inventario_completo()
+            self.cargar_inventario_completo(self.e_buscar_inv.get().strip())
             self.limpiar_form_manual()
         except Exception as e: messagebox.showerror("Error", str(e))
 
     def eliminar_producto(self):
-        if messagebox.askyesno("Borrar", "¿Eliminar?"):
+        # Candado absoluto para eliminar productos
+        if not self.verificar_pin(): return 
+        
+        if messagebox.askyesno("Borrar", "¿Eliminar este producto permanentemente de la base de datos?"):
             conn = db.conectar(); cursor = conn.cursor()
             cursor.execute("DELETE FROM lotes WHERE codigo_producto=?", (self.e_cod.get(),))
             cursor.execute("DELETE FROM productos WHERE codigo=?", (self.e_cod.get(),))
             conn.commit(); conn.close()
             
-            self.cargar_inventario_completo()
+            self.cargar_inventario_completo(self.e_buscar_inv.get().strip())
             self.limpiar_form_manual()
 
     def respaldar_usb(self):

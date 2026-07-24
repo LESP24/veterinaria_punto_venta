@@ -4,9 +4,9 @@
 SECRET_KEY = "VeterinariaBeethoven2025"
 
 # Listas de Datos (Los vendedores que aparecen en la caja)
-LISTA_VENDEDORES = [
-    "Ingris", "Paulina", "Alejandra", "Lupita", 
-    "Juan", "Pablo", "Baraquiel", "Ada", "Susy"
+LISTA_VENDEDORES = [ 
+    "Baraquiel", "Ingris", "Paulina", "Alejandra", "Lupita", 
+    "Juan", "Pablo",  "Ada",
 ]
 
 # --- PALETA DE COLORES (Clean Material) ---
